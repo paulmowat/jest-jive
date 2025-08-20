@@ -26,7 +26,8 @@ const jokes = [
   "Why don't oysters share? Because they're shellfish!",
   "What do you call a sleeping tiger? A nap-kin!",
   "Why did the banana go to the doctor? It wasn't peeling well!",
-  "Why did the tomato turn red? Because it saw the salad dressing!"
+  "Why did the tomato turn red? Because it saw the salad dressing!",
+  "Why did the grape stop in the middle of the road? Because it ran out of juice!"
 ];
 
 export const useJokes = () => {
