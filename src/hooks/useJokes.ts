@@ -30,7 +30,8 @@ const jokes = [
   "Why did the grape stop in the middle of the road? Because it ran out of juice!",
   "Why did the orange stop? It ran out of juice!",
   "Why did the lemon stop? It ran out of juice!",
-  "Why did the chicken cross the road? To get to the other side!"
+  "Why did the chicken cross the road? To get to the other side!",
+  "Why did the mushroom go to the party? Because he was a fungi!"
 ];
 
 export const useJokes = () => {
