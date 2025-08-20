@@ -32,7 +32,8 @@ const jokes = [
   "Why did the lemon stop? It ran out of juice!",
   "Why did the chicken cross the road? To get to the other side!",
   "Why did the mushroom go to the party? Because he was a fungi!",
-  "What do you call a DevOps engineer? A master of containers!"
+  "What do you call a DevOps engineer? A master of containers!",
+  "What do you call a bear with no teeth? A gummy bear!"
 ];
 
 export const useJokes = () => {
