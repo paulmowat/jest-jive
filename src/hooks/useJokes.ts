@@ -25,7 +25,8 @@ const jokes = [
   "What do you call a group of disorganized cats? A cat-astrophe!",
   "Why don't oysters share? Because they're shellfish!",
   "What do you call a sleeping tiger? A nap-kin!",
-  "Why did the banana go to the doctor? It wasn't peeling well!"
+  "Why did the banana go to the doctor? It wasn't peeling well!",
+  "Why did the tomato turn red? Because it saw the salad dressing!"
 ];
 
 export const useJokes = () => {
