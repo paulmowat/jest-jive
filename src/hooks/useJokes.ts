@@ -42,6 +42,7 @@ const jokes = [
   "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open.",
+  "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open."
 ];
 
