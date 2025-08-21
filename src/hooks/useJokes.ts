@@ -39,7 +39,6 @@ const jokes = [
   "Why do programmers prefer dark mode? Because light attracts bugs!",
   "Why did the function return early? Because it had a date.",
   "Why did the developer go broke? Because he used up all his cache.",
-  "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open."
 ];
 
