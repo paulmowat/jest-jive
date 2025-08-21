@@ -41,6 +41,7 @@ const jokes = [
   "Why did the developer go broke? Because he used up all his cache.",
   "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open.",
+  "Why was the computer cold? It left its Windows open.",
   "Why was the computer cold? It left its Windows open."
 ];
 
