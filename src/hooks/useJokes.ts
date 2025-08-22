@@ -25,7 +25,16 @@ const jokes = [
   "What do you call a group of disorganized cats? A cat-astrophe!",
   "Why don't oysters share? Because they're shellfish!",
   "What do you call a sleeping tiger? A nap-kin!",
-  "Why did the banana go to the doctor? It wasn't peeling well!"
+  "Why did the banana go to the doctor? It wasn't peeling well!",
+  "Why did the tomato turn red? Because it saw the salad dressing!",
+  "Why did the grape stop in the middle of the road? Because it ran out of juice!",
+  "Why did the orange stop? It ran out of juice!",
+  "Why did the lemon stop? It ran out of juice!",
+  "Why did the chicken cross the road? To get to the other side!",
+  "Why did the mushroom go to the party? Because he was a fungi!",
+  "What do you call a DevOps engineer? A master of containers!",
+  "What do you call a bear with no teeth? A gummy bear!",
+  "Knock knock. Who's there? Lettuce. Lettuce who? Lettuce in, it's cold out here!"
 ];
 
 export const useJokes = () => {
