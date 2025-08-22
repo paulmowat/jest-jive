@@ -36,8 +36,7 @@ const jokes = [
   "What do you call a bear with no teeth? A gummy bear!",
   "Knock knock. Who's there? Lettuce. Lettuce who? Lettuce in, it's cold out here!",
   "How do you comfort a JavaScript bug? You console it.",
-  "Why do programmers prefer dark mode? Because light attracts bugs!",
-  "Why did the function return early? Because it had a date."
+  "Why do programmers prefer dark mode? Because light attracts bugs!"
 ];
 
 export const useJokes = () => {
